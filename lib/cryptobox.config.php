@@ -8,9 +8,9 @@
  */
 
  define("DB_HOST", 	"localhost");				// hostname
- define("DB_USER", 	"-Please Enter Username-");		// database username
- define("DB_PASSWORD", 	"-Please Enter Password-");		// database password
- define("DB_NAME", 	"-Please Enter Database Name-");	// database name
+ define("DB_USER", 	"admin312");		// database username
+ define("DB_PASSWORD", 	"ABC@123def");		// database password
+ define("DB_NAME", 	"cryptobox");	// database name
 
 
 
